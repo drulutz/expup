@@ -73,16 +73,16 @@ TEMP_FOLDER_NAME = "_temp/"
 ICON_URL = 'images/expup.ico'
 
 # MySQL-WP Information
-WP_MYSQL_HOST = "ele1313311223367.db.10815705.hostedresource.com"
-WP_MYSQL_USER = "ele1313311223367"
-WP_MYSQL_PASS = "Ardilla18!"
-WP_MYSQL_DB = "ele1313311223367"
+WP_MYSQL_HOST = "localhost"
+WP_MYSQL_USER = "root"
+WP_MYSQL_PASS = ""
+WP_MYSQL_DB = "wp-db"
 
 # MySQL-EXPUP Information
-MYSQL_HOST = "elexpreso.db.10815705.hostedresource.com"
-MYSQL_USER = "elexpreso"
-MYSQL_PASS = "Ardilla18!"
-MYSQL_DB = "elexpreso"
+MYSQL_HOST = "localhost"
+MYSQL_USER = "root"
+MYSQL_PASS = ""
+MYSQL_DB = "expup"
 
 # Size
 MAX_W = 720
